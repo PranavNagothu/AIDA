@@ -1,12 +1,3 @@
----
-title: AIDA - AI Data Analysis Agent
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
-license: mit
----
 🤖 AIDA - AI Data Analysis Agent
 Transform your raw data into actionable business insights with the power of AI.
 AIDA is an intelligent data analysis system powered by Llama 3 and LangGraph that automatically:
